@@ -31,6 +31,6 @@ User Login
 
 More Information
 ------------------------------------------------------------
-- Demo						: http://bit.ly/2sn8fKW
-- Tutorial				: http://bit.ly/2sj1jyf
-- Video Tutorial	: http://bit.ly/2L07ZJf
+- Demo						: http://bit.ly/2L0t8TV
+- Tutorial				: http://bit.ly/2smSdAm
+- Video Tutorial	: https://youtu.be/yQ7BE5gUuRA
